@@ -1,0 +1,4 @@
+v0 330HZ + phasing sketch for arduino due
+v1 same for nano
+v2 v1 + UDP broadband sending of "shot" signal (загружена сейчас)
+v3 added disabling of interruption awaiting. This should remove false starts
